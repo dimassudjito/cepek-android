@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cepek</string>
+    <string name="rollButton">ADD</string>
+    <string name="ejectButton">X</string>
+</resources>
